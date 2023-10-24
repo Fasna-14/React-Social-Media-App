@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "I attended a Defi blockchain event"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Web3 global summit next week"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "October 23, 2023 5:52:02 PM",
+      "body": "I Edited This Post"
+    },
+    {
+      "id": 5,
+      "title": "Congrats",
+      "datetime": "October 24, 2023 7:03:17 AM",
+      "body": "Hey buddy, You have completed a social media app using React"
+    }
+  ]
+}
